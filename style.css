@@ -204,12 +204,29 @@ h3{
 
     .card{
         flex-shrink: 1;
+
+        
        
     }
-   
+    #ab{
+        padding: 50px;
+    }
 
-    
-    
+}
+@media screen and (max-width: 800px) {
+    #img{
+        width: 200px;
+    }
+    #ab{
+        padding: 20px;
+    }
+    #data{
+        padding: 20px;
+    }
+    #img
+    {
+        margin: 10px;
+    }
 }
 
 
